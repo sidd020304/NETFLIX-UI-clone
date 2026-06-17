@@ -4,4 +4,4 @@ This Netflix UI Clone is a front-end project built using HTML and CSS that recre
 ![image alt](https://github.com/sidd020304/NETFLIX-UI-clone/blob/main/net%20ss1.jpg?raw=true)
 ![image alt](https://github.com/sidd020304/NETFLIX-UI-clone/blob/main/net%20ss2.jpg?raw=true)
 ![image alt](https://github.com/sidd020304/NETFLIX-UI-clone/blob/main/net%20ss3.jpg?raw=true)
-![image alt]()
+![image alt](https://github.com/sidd020304/NETFLIX-UI-clone/blob/main/net%20ss4.jpg?raw=true)
